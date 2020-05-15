@@ -1,6 +1,5 @@
 package enjoy.springbootatomikos.dao.orders;
 
-
 import enjoy.springbootatomikos.model.Orders;
 
 public interface OrdersMapper {
